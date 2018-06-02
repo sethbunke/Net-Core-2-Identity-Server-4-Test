@@ -12568,11 +12568,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\azmltest1\\documents\\visual studio 2017\\Projects\\NetCoreIdApp1\\NetCoreIdApp1\\NetCoreIdApp1.csproj",
+      "projectUniqueName": "C:\\dev\\Net-Core-2-Identity-Server-4-Test\\NetCoreIdApp1\\NetCoreIdApp1\\NetCoreIdApp1.csproj",
       "projectName": "NetCoreIdApp1",
-      "projectPath": "c:\\users\\azmltest1\\documents\\visual studio 2017\\Projects\\NetCoreIdApp1\\NetCoreIdApp1\\NetCoreIdApp1.csproj",
+      "projectPath": "C:\\dev\\Net-Core-2-Identity-Server-4-Test\\NetCoreIdApp1\\NetCoreIdApp1\\NetCoreIdApp1.csproj",
       "packagesPath": "C:\\Users\\azmltest1\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\azmltest1\\documents\\visual studio 2017\\Projects\\NetCoreIdApp1\\NetCoreIdApp1\\obj\\",
+      "outputPath": "C:\\dev\\Net-Core-2-Identity-Server-4-Test\\NetCoreIdApp1\\NetCoreIdApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

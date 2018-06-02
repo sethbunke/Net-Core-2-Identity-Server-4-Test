@@ -9,3 +9,14 @@ c:\users\azmltest1\documents\visual studio 2017\Projects\NetCoreIdApp1\NetCoreId
 c:\users\azmltest1\documents\visual studio 2017\Projects\NetCoreIdApp1\NetCoreIdApp1\bin\Debug\netcoreapp2.0\NetCoreIdApp1.pdb
 c:\users\azmltest1\documents\visual studio 2017\Projects\NetCoreIdApp1\NetCoreIdApp1\obj\Debug\netcoreapp2.0\NetCoreIdApp1.dll
 c:\users\azmltest1\documents\visual studio 2017\Projects\NetCoreIdApp1\NetCoreIdApp1\obj\Debug\netcoreapp2.0\NetCoreIdApp1.pdb
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\bin\Debug\netcoreapp2.0\NetCoreIdApp1.deps.json
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\bin\Debug\netcoreapp2.0\NetCoreIdApp1.runtimeconfig.json
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\bin\Debug\netcoreapp2.0\NetCoreIdApp1.runtimeconfig.dev.json
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\bin\Debug\netcoreapp2.0\NetCoreIdApp1.dll
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\bin\Debug\netcoreapp2.0\NetCoreIdApp1.pdb
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\obj\Debug\netcoreapp2.0\NetCoreIdApp1.csprojResolveAssemblyReference.cache
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\obj\Debug\netcoreapp2.0\NetCoreIdApp1.csproj.CoreCompileInputs.cache
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\obj\Debug\netcoreapp2.0\NetCoreIdApp1.AssemblyInfoInputs.cache
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\obj\Debug\netcoreapp2.0\NetCoreIdApp1.AssemblyInfo.cs
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\obj\Debug\netcoreapp2.0\NetCoreIdApp1.dll
+C:\dev\Net-Core-2-Identity-Server-4-Test\NetCoreIdApp1\NetCoreIdApp1\obj\Debug\netcoreapp2.0\NetCoreIdApp1.pdb

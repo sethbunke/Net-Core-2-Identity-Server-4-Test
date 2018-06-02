@@ -11,6 +11,7 @@ namespace ConsoleTestClient
     {
         static void Main(string[] args)
         {
+            //base url
             const string urlBase = "http://localhost:55509";
 
             //authorization server parameters owned from the client

@@ -6543,11 +6543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\azmltest1\\Documents\\Visual Studio 2017\\Projects\\IdTestClient1\\IdTestClient1\\IdTestClient1.csproj",
+      "projectUniqueName": "C:\\dev\\Net-Core-2-Identity-Server-4-Test\\IdTestClient1\\IdTestClient1\\IdTestClient1.csproj",
       "projectName": "IdTestClient1",
-      "projectPath": "C:\\Users\\azmltest1\\Documents\\Visual Studio 2017\\Projects\\IdTestClient1\\IdTestClient1\\IdTestClient1.csproj",
+      "projectPath": "C:\\dev\\Net-Core-2-Identity-Server-4-Test\\IdTestClient1\\IdTestClient1\\IdTestClient1.csproj",
       "packagesPath": "C:\\Users\\azmltest1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azmltest1\\Documents\\Visual Studio 2017\\Projects\\IdTestClient1\\IdTestClient1\\obj\\",
+      "outputPath": "C:\\dev\\Net-Core-2-Identity-Server-4-Test\\IdTestClient1\\IdTestClient1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
