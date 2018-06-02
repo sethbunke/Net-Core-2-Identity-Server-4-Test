@@ -1,0 +1,11 @@
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\bin\Debug\netcoreapp2.0\IdTestClient1.deps.json
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\bin\Debug\netcoreapp2.0\IdTestClient1.runtimeconfig.json
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\bin\Debug\netcoreapp2.0\IdTestClient1.runtimeconfig.dev.json
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\bin\Debug\netcoreapp2.0\IdTestClient1.dll
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\obj\Debug\netcoreapp2.0\IdTestClient1.csprojResolveAssemblyReference.cache
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\obj\Debug\netcoreapp2.0\IdTestClient1.csproj.CoreCompileInputs.cache
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\obj\Debug\netcoreapp2.0\IdTestClient1.AssemblyInfoInputs.cache
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\obj\Debug\netcoreapp2.0\IdTestClient1.AssemblyInfo.cs
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\bin\Debug\netcoreapp2.0\IdTestClient1.pdb
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\obj\Debug\netcoreapp2.0\IdTestClient1.dll
+c:\users\azmltest1\documents\visual studio 2017\Projects\IdTestClient1\IdTestClient1\obj\Debug\netcoreapp2.0\IdTestClient1.pdb
